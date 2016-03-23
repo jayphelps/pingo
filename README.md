@@ -154,7 +154,7 @@ IncompleteImpl.family();
 
 ## Similar Projects
 
-- [corejs-decorators](https://github.com/jayphelps/corejs-decorators)
+- [core-decorators.js](https://github.com/jayphelps/core-decorators.js)
 
 
 ## Resources
